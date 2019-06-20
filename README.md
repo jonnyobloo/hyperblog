@@ -9,3 +9,4 @@ Gracias a este curso aprendi todo esto:
 * Trucos muy locos que me enseño el profesor Freddy Vega
 * Ademas que platzi es el mejor sitio web para aprender todo lo que tu quieras.
 * creado por el increible team de platzi
+* incluye ejemplos en windows, linux y mac
