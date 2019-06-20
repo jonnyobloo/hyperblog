@@ -10,3 +10,4 @@ Gracias a este curso aprendi todo esto:
 * Ademas que platzi es el mejor sitio web para aprender todo lo que tu quieras.
 * creado por el increible team de platzi
 * incluye ejemplos en windows, linux y mac
+* disponible para todas las edades.
